@@ -108,7 +108,7 @@ body {
   }
 }
 
-@media (min-width: 1440px) and (max-width: 200px) {
+@media (min-width: 1440px) and (max-width: 2000px) {
   body {
     justify-content: flex-start;
     padding: 32px;
